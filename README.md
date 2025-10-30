@@ -5,7 +5,7 @@
 
 
 <p align="center">
-<a href="https://orcid.org/0000-0003-0830-2778"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0000--0000--0000--0000-1abc9c"></a>
+<a href="https://orcid.org/0000-0003-0830-2778"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0000--0003--0830--2778-1abc9c"></a>
 <a href="https://scholar.google.com/citations?user=ZXK0gdwAAAAJ&hl=es"><img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-Profile-4285F4"></a>
 <a href="https://www.linkedin.com/in/jennifer-grisales-casadiegos/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2"></a>
 <a href="mailto:j.grisalescasadiegos@ugto.mx"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-8e44ad"></a>
@@ -20,13 +20,13 @@
 ---
 
 
-### 🔭 Current focus
+### 🎯 Current focus
 - Multi‑wavelength ALMA analysis (Bands 3–8).
 - Moment maps, PV diagrams, spectral index maps (CASA, Astropy, spectral‑cube)
 - Toy‑models & simulation pipeline
 
 
-### 🧪 Tooling
+### 🔩 Tooling
 `CASA` · `CARTA` · `Python` (Astropy, spectral‑cube, radio_beam) · `NumPy` · `Matplotlib` · `Jupyter` · `conda` · `Git/GitHub`
 
 
