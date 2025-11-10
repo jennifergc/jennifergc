@@ -53,11 +53,7 @@
 ---
 
 
-<details>
 <summary>GitHub stats</summary>
 
 <!-- Use at your own risk: third‑party services may be flaky or change terms -->
 <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=jennifergc&show_icons=true" />
-
-
-</details>
