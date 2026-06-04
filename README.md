@@ -18,13 +18,13 @@
 
 ### Research focus
 
-Multi-wavelength ALMA analysis (Bands 3–7) targeting the UC HII region M17-UC1. Current work includes continuum imaging, spectral index mapping, moment maps, and position-velocity diagrams from radio recombination lines. Radiative transfer and simulation frameworks (RADMC-3D, FLASH, SF3Dmodels) are used to interpret the observational results.
+Multi-wavelength ALMA analysis targeting in HC-HII region. Current work includes continuum imaging, spectral index mapping, moment maps, and position-velocity diagrams from radio recombination lines. Radiative transfer and simulation frameworks (RADMC-3D, FLASH, SF3Dmodels) are used to interpret the observational results.
 
 ---
 
 ### Tools
 
-`CASA` · `CARTA` · `Python` (Astropy, spectral-cube, radio_beam) · `RADMC-3D` · `FLASH` · `SF3Dmodels` · `NumPy` · `Matplotlib` · `Jupyter` · `Git`
+`CASA` · `CARTA` · `AIPS` · `Python` (Astropy, spectral-cube, radio_beam) · `RADMC-3D` · `FLASH` · `SF3Dmodels` · `NumPy` · `Matplotlib` · `Jupyter` · `YT` · `Git`
 
 ---
 
