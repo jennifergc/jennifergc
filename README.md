@@ -45,7 +45,7 @@ Multi-wavelength ALMA analysis of HC/UC HII regions. Current work includes conti
 **Education and research**
 - PhD candidate in Astrophysics, Universidad de Guanajuato (SECIHTI fellow)
 - MSc in Physics, Universidad Industrial de Santander: Pierre Auger Collaboration
-- BSc in Physics, Universidad Industrial de Santander: LAGO Collaboration · [Canadian Journal of Physics, 2022]([https://doi.org/REEMPLAZAR-CON-EL-DOI-VERIFICADO](https://doi.org/10.1139/cjp-2020-0561)) · [ICRC 2021 proceedings](https://pdfs.semanticscholar.org/aae1/1d4a2f122051a6b951ed33cd20b045cc096e.pdf)
+- BSc in Physics, Universidad Industrial de Santander: LAGO Collaboration · [Canadian Journal of Physics, 2022](https://doi.org/10.1139/cjp-2020-0561) · [ICRC 2021 proceedings](https://pdfs.semanticscholar.org/aae1/1d4a2f122051a6b951ed33cd20b045cc096e.pdf)
 
 **Schools and training**
 - [Les Houches–WE-Heraeus Summer School](https://physstarform26.sciencesconf.org/) on star formation (July 2026)
